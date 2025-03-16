@@ -1,0 +1,15 @@
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\bin\Debug\net9.0\Lab13_Ex01.exe
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\bin\Debug\net9.0\Lab13_Ex01.deps.json
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\bin\Debug\net9.0\Lab13_Ex01.runtimeconfig.json
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\bin\Debug\net9.0\Lab13_Ex01.dll
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\bin\Debug\net9.0\Lab13_Ex01.pdb
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\Lab13_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\Lab13_Ex01.AssemblyInfoInputs.cache
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\Lab13_Ex01.AssemblyInfo.cs
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\Lab13_Ex01.csproj.CoreCompileInputs.cache
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\Lab13_Ex01.sourcelink.json
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\Lab13_Ex01.dll
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\refint\Lab13_Ex01.dll
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\Lab13_Ex01.pdb
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\Lab13_Ex01.genruntimeconfig.cache
+C:\PHUGUN\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex01\obj\Debug\net9.0\ref\Lab13_Ex01.dll
